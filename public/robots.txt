@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /admin
 
-Sitemap: https://fitlaunchmedia.com/sitemap.xml
+Sitemap: https://fitlaunchmedia.vercel.app/sitemap.xml
